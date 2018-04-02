@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=SDL2 Application
+Comment=A template for sdl2
+Comment[de]=Eine Vorlage für eine SDL2 Anwendung
+Icon=sdl2_icon
+TryExec=sdl2_app
+Exec=sdl2_app %f
+MimeType=application/x-geogebra-file;application/x-geogebra-tool;
+Categories=AudioVideo;
