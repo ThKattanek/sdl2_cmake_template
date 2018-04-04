@@ -1,6 +1,5 @@
 # SDL2 CMAKE TEMPLATE
 A template for a sdl2 applictaion with cmake
-### [Latest version here](https://github.com/ThKattanek/sdl2_cmake_template/releases)
 
 ![Screenshot](screenshot.png)
 
